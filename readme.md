@@ -1,10 +1,10 @@
-#Bombgames:
+# Bombgames:
 
-Site feito em Javascript no padrão MVC para venda de contas usadas de Minecraft.
+Site feito em Javascript puro no padrão MVC para venda de contas usadas de Minecraft.
 
 https://bombgames.com.br/
 
-##Informações adicionais:
+## Informações adicionais:
 
 - Por conta do cliente preferir não fazer um back-end, os produtos do site são carregados através de um JSON, chamado products.json, localizado na pasta data.
 
