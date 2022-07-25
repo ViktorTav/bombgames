@@ -1,0 +1,261 @@
+[
+    {
+        "disponivel": true,
+        "nome": "Produto 1",
+        "preço": 100.00,
+        "imagem": "src/img/products/alternativo.png",
+        "características": [
+            {
+                "texto": "Característica 1",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/pickaxle.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 2",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/Steve.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 3",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/minecraftblock.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 4",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/mine_mods.png",
+                    "tipo": "imagem"
+                }
+            }
+        ],
+        "métodos-de-pagamento": [
+            {
+                "nome": "PagSeguro",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "MercadoPago",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "Pix",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "qrCodeImagem": "src/img/qr-shared.png",
+                "copiaEColaCodigo": "Código de exemplo"
+            },
+            {
+                "nome": "Boleto",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            }
+        ]
+    },
+    {
+        "disponivel": false,
+        "nome": "Produto 2",
+        "preço": 140.00,
+        "imagem": "src/img/products/alternativo.png",
+        "características": [
+            {
+                "texto": "Característica 1",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/pickaxle.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 2",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/Steve.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 3",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/minecraftblock.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 4",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/mine_mods.png",
+                    "tipo": "imagem"
+                }
+            }
+        ],
+        "métodos-de-pagamento": [
+            {
+                "nome": "PagSeguro",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "MercadoPago",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "Pix",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "qrCodeImagem": "src/img/qr-shared.png",
+                "copiaEColaCodigo": "Código de exemplo"
+            },
+            {
+                "nome": "Boleto",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            }
+        ]
+    },
+    {
+        "disponivel": true,
+        "nome": "Produto 3",
+        "preço": 80.00,
+        "imagem": "src/img/products/alternativo.png",
+        "características": [
+            {
+                "texto": "Característica 1",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/pickaxle.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 2",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/Steve.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 3",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/minecraftblock.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 4",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/mine_mods.png",
+                    "tipo": "imagem"
+                }
+            }
+        ],
+        "métodos-de-pagamento": [
+            {
+                "nome": "PagSeguro",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "MercadoPago",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "Pix",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "qrCodeImagem": "src/img/qr-shared.png",
+                "copiaEColaCodigo": "Código de exemplo"
+            },
+            {
+                "nome": "Boleto",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            }
+        ]
+    },
+    {
+        "disponivel": true,
+        "principal": true,
+        "nome": "Produto principal",
+        "preço": 129.99,
+        "imagem": "src/img/products/giftcard-minecraft.png",
+        "descrição": "Minecraft é um jogo que consiste em montar blocos e sair em buscas de aventuras.",
+        "características": [
+            {
+                "texto": "Característica 1",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/pickaxle.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 2",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/Steve.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 3",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/minecraftblock.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 4",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/mine_mods.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 5",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/key.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 6",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/keyy.png",
+                    "tipo": "imagem"
+                }
+            },
+            {
+                "texto": "Característica 7",
+                "ícone": {
+                    "conteúdo": "src/img/ICONES PRODUTOS/keyyy.png",
+                    "tipo": "imagem"
+                }
+            }
+        ],
+        "métodos-de-pagamento": [
+            {
+                "nome": "PagSeguro",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "MercadoPago",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            },
+            {
+                "nome": "Pix",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "qrCodeImagem": "src/img/qr-shared.png",
+                "copiaEColaCodigo": "Código de exemplo"
+            },
+            {
+                "nome": "Boleto",
+                "imagem": "https://cdn2.downdetector.com/static/uploads/logo/pagseguro-logo.png",
+                "url": "https://google.com"
+            }
+        ]
+    }
+]

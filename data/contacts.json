@@ -1,0 +1,34 @@
+[
+    {
+        "url": "https://google.com",
+        "fa-icone": "fab fa-discord",
+        "rede-social": {
+            "mostrar": true,
+            "cor": "#5661EA"
+        }
+    },
+    {
+        "url": "mailto:email@email.com",
+        "fa-icone": "fas fa-envelope",
+        "rede-social": {
+            "mostrar": false,
+            "cor": ""
+        }
+    },
+    {
+        "url": "https://google.com",
+        "fa-icone": "fab fa-twitter",
+        "rede-social": {
+            "mostrar": true,
+            "cor": "#00ACEE"
+        }
+    },
+    {
+        "url": "https://google.com",
+        "fa-icone": "fab fa-youtube",
+        "rede-social": {
+            "mostrar": true,
+            "cor": "#FF0000"
+        }
+    }
+]

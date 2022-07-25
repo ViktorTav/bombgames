@@ -1,0 +1,28 @@
+{
+    "controllers": {
+        "product": {
+            "DOMProductCardsUlSelector": "ul#product-cards",
+            "DOMMainProductDivSelector": "div#main-product",
+            "fileUrl": "data/products.json"
+        },
+        "siteFeature": {
+            "DOMFeaturesUlSelector": "ul#site-features",
+            "fileUrl": "data/siteFeatures.json"
+        },
+        "contact": {
+            "DOMContactUlSelector": "ul#contacts",
+            "fileUrl": "data/contacts.json"
+        },
+        "question": {
+            "DOMQuestionUlSelector": "ul#faq",
+            "fileUrl": "data/questions.json"
+        },
+        "socialNetwork": {
+            "DOMSocialNetworkUlSelector": "ul#social-networks",
+            "fileUrl": "data/contacts.json"
+        },
+        "termsAndConditions":{
+            "fileUrl": "data/termsAndConditions.json"
+        }
+    }
+}

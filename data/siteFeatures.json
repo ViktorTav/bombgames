@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Entrega",
+        "descrição": "Nós fornecemos um Prazo de 48 horas para envio do produto após a aprovação do pagamento.",
+        "fa-icone": "fas fa-rocket"
+    },
+    {
+        "nome": "Suporte",
+        "descrição": "Nós da equipe da BombGames oferecemos um suporte de 24/7 para sanar qualquer problema ou duvida.",
+        "fa-icone": "fas fa-headset"
+    },
+    {
+        "nome": "Segurança",
+        "descrição": "Usamos o Mercado Pago, Paypal e PagSeguro, melhores plataformas do mercado super eficiente e segura.        ",
+        "fa-icone": "fas fa-shield-alt"
+    }
+]
